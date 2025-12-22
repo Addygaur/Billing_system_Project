@@ -10,7 +10,7 @@ A backend billing system designed to handle invoice generation, usage-based bill
 - Error handling and validation
 
 ## Tech Stack
-- Backend: Node.js (Express) 
+- Backend: Node.js 
 - Database: MongoDB
 - Auth: JWT 
 
