@@ -10,9 +10,9 @@ A backend billing system designed to handle invoice generation, usage-based bill
 - Error handling and validation
 
 ## Tech Stack
-- Backend: Node.js (Express) / Python (FastAPI)
-- Database: PostgreSQL / MongoDB
-- Auth: JWT (if applicable)
+- Backend: Node.js (Express) 
+- Database: MongoDB
+- Auth: JWT 
 
 ## Focus Areas
 - Clean API design
@@ -20,7 +20,3 @@ A backend billing system designed to handle invoice generation, usage-based bill
 - Performance considerations
 - Scalable backend architecture
 
-## How to Run
-1. Clone the repo
-2. Install dependencies
-3. Start the server
