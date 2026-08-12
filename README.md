@@ -19,5 +19,3 @@ A backend billing system designed to handle invoice generation, usage-based bill
 - Data consistency
 - Performance considerations
 - Scalable backend architecture
-
-Thank you
