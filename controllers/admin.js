@@ -1,6 +1,6 @@
 // controllers/admin.js
 const Order = require('../models/order');
-//Get all the orders
+
 // Get all orders
 const getAllOrders = async (req, res) => {
   try {
